@@ -1,0 +1,2 @@
+const GOOGLE_API="AIzaSyDwjLiYDd7gNjd44Y-RUYAiOs-dceaQCVs";
+ export const  YOUTUBE_VDEO_API ="https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=IN&key="+GOOGLE_API;
